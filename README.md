@@ -3,6 +3,9 @@ Explorative Program of the Solar System
 
 Created a Explorative Program of the Solar System with accurate depictions of the planets, such as axis tilt, rotation, and moons. Coded with object oritentation in mind, using OpenGL libraries. 
 
+![alt text](https://github.com/jmontesa1/CS480_FinalProject/blob/main/CS480UML.png?raw=true)
+
+
 EXPLORATION MODE CONTROLS
 'W' - Move forward
 'A' - Move left
